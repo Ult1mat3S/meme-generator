@@ -1,4 +1,4 @@
-import icon from "../assets/trollface.png";
+import icon from "../assets/TrollFace.png";
 
 export default function Header() {
   return (
